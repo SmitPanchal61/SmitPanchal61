@@ -1,3 +1,6 @@
+# Hi, I'm Smit
+
+Pursuing MS in Software Engineering at Arizona State University.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smit-panchal-9a83ba1b7/) 
