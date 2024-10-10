@@ -1,6 +1,8 @@
-# Hi, I'm Smit
+## Hi, I'm Smit
 
-Pursuing MS in Software Engineering at Arizona State University.
+- 📚Currently Pursuing MS in Software Engineering at Arizona State University.
+- 🎓Graduated with Bachelors of Computer Engineering from University of Mumbai.
+- 🏆Smart India Hackathon 2023 Winner
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smit-panchal-9a83ba1b7/) 
